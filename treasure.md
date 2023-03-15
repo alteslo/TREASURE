@@ -14,3 +14,7 @@
 
 ### PostgreSQL
 1. https://explain.tensor.ru/
+
+
+## DOCKER
+1. https://testdriven.io/blog/docker-best-practices/#order-dockerfile-commands-appropriately
