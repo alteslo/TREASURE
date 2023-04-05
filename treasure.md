@@ -18,3 +18,7 @@
 
 ## DOCKER
 1. https://testdriven.io/blog/docker-best-practices/#order-dockerfile-commands-appropriately
+
+
+## ALGORITHMS
+1. https://www.youtube.com/playlist?list=PL6Wui14DvQPySdPv5NUqV3i8sDbHkCKC5
